@@ -37,6 +37,12 @@ export function InfoCard({ shelter, onClose }) {
         >×</button>
       </div>
 
+      <img
+        src={`https://maps.googleapis.com/maps/api/streetview?size=600x200&location=${shelter.lat},${shelter.lng}&fov=90&key=${import.meta.env.VITE_GOOGLE_MAPS_API_KEY}`}
+        alt={shelter.address}
+        style={{ width: '100%', borderRadius: 8, marginTop: 10, display: 'block' }}
+      />
+
       <div style={{ marginTop: 8, display: 'flex', gap: 8, flexWrap: 'wrap' }}>
         <span style={{
           background: '#e8f0fe', color: '#1a73e8',
