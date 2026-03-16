@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { useGeolocation } from './hooks/useGeolocation.js'
 import { getNearestShelters } from './utils/nearest.js'
-import { Map } from './components/Map.jsx'
+import { ShelterMap } from './components/Map.jsx'
 import { ShelterList } from './components/ShelterList.jsx'
 import { InfoCard } from './components/InfoCard.jsx'
 import { GpsPrompt } from './components/GpsPrompt.jsx'
@@ -38,7 +38,7 @@ export default function App() {
   return (
     <div style={{ position: 'relative', width: '100%', height: '100%' }}>
       <div style={{ position: 'absolute', inset: 0, bottom: 'var(--panel-height)' }}>
-        <Map
+        <ShelterMap
           shelters={allShelters}
           position={position}
           onMarkerClick={handleSelect}

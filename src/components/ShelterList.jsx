@@ -1,8 +1,9 @@
-import { SHELTER_TYPES, MARKER_COLORS } from '../constants.js'
+import { MARKER_COLORS } from '../constants.js'
 
 function formatDistance(meters) {
-  if (meters < 1000) return `${meters} מ׳`
-  return `${(meters / 1000).toFixed(1)} ק"מ`
+  const m = Math.round(meters)
+  if (m < 1000) return `${m} מ׳`
+  return `${(m / 1000).toFixed(1)} ק"מ`
 }
 
 const TYPE_EMOJI = { shelter: '🛡️', kindergarten: '🏫', park: '🌳' }

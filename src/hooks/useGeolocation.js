@@ -31,11 +31,13 @@ export function useGeolocation() {
       })
     }
 
-    navigator.geolocation.getCurrentPosition(onSuccess, onError, {
+    const watchId = navigator.geolocation.watchPosition(onSuccess, onError, {
       enableHighAccuracy: true,
       timeout: 10000,
-      maximumAge: 30000,
+      maximumAge: 10000,
     })
+
+    return () => navigator.geolocation.clearWatch(watchId)
   }, [])
 
   return state

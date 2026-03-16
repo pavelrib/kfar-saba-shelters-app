@@ -21,7 +21,7 @@ export function InfoCard({ shelter, onClose }) {
 
   return (
     <div style={{
-      position: 'absolute', bottom: 230, right: 12, left: 12, zIndex: 20,
+      position: 'absolute', bottom: 'calc(var(--panel-height) + 10px)', right: 12, left: 12, zIndex: 20,
       background: '#fff', borderRadius: 12, padding: '16px',
       boxShadow: '0 4px 16px rgba(0,0,0,0.2)', maxWidth: 400, margin: '0 auto',
     }}>

@@ -1,3 +1,4 @@
+import React from 'react'
 import { GoogleMap, useJsApiLoader, MarkerF } from '@react-google-maps/api'
 import { KFAR_SABA_CENTER, MARKER_COLORS } from '../constants.js'
 
@@ -44,10 +45,25 @@ function youAreHereIcon() {
   }
 }
 
-export function Map({ shelters, position, onMarkerClick }) {
+export function ShelterMap({ shelters, position, onMarkerClick }) {
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAPS_API_KEY,
   })
+  const hasCenteredRef = React.useRef(false)
+  const mapRef = React.useRef(null)
+
+  const onLoad = React.useCallback(map => {
+    mapRef.current = map
+  }, [])
+
+  // Pan to user location only on first GPS fix
+  React.useEffect(() => {
+    if (position && mapRef.current && !hasCenteredRef.current) {
+      mapRef.current.panTo(position)
+      mapRef.current.setZoom(15)
+      hasCenteredRef.current = true
+    }
+  }, [position])
 
   if (!isLoaded) {
     return (
@@ -57,14 +73,13 @@ export function Map({ shelters, position, onMarkerClick }) {
     )
   }
 
-  const center = position || KFAR_SABA_CENTER
-
   return (
     <GoogleMap
       mapContainerStyle={MAP_CONTAINER_STYLE}
-      center={center}
-      zoom={position ? 15 : 14}
+      defaultCenter={KFAR_SABA_CENTER}
+      defaultZoom={14}
       options={MAP_OPTIONS}
+      onLoad={onLoad}
     >
       {shelters.map(s => (
         <MarkerF
