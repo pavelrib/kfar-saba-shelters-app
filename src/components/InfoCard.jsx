@@ -76,6 +76,21 @@ export function InfoCard({ shelter, onClose }) {
           מקלט סמוך: {shelter.nearbyShelterAddress}
         </div>
       )}
+
+      <a
+        href={`https://www.google.com/maps/dir/?api=1&destination=${shelter.lat},${shelter.lng}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{
+          display: 'block', marginTop: 14,
+          background: '#1a73e8', color: '#fff',
+          borderRadius: 8, padding: '10px 0',
+          textAlign: 'center', fontWeight: 600, fontSize: 15,
+          textDecoration: 'none',
+        }}
+      >
+        🧭 נווט למקלט
+      </a>
     </div>
   )
 }
