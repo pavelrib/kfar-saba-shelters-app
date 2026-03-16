@@ -1,0 +1,3024 @@
+[
+  {
+    "id": "shelter-3",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 3",
+    "address": "הנביאים, 10",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1874729,
+    "lng": 34.9388882
+  },
+  {
+    "id": "shelter-4",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 4",
+    "address": "יונה הנביא, 8",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": false,
+      "blind_markings": true
+    },
+    "lat": 32.1876108,
+    "lng": 34.9396559
+  },
+  {
+    "id": "shelter-6",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 6",
+    "address": "עמוס, 10",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1850452,
+    "lng": 34.9371148
+  },
+  {
+    "id": "shelter-8",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 8",
+    "address": "שלמה המלך, 4",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.181906,
+    "lng": 34.9407338
+  },
+  {
+    "id": "shelter-13",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 13",
+    "address": "התאנה, 2",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1804124,
+    "lng": 34.9401428
+  },
+  {
+    "id": "shelter-17",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 17",
+    "address": "האילנות, 23",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1804786,
+    "lng": 34.937567
+  },
+  {
+    "id": "shelter-19",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 19",
+    "address": "הרימון, 7",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.180117,
+    "lng": 34.9388169
+  },
+  {
+    "id": "shelter-29",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 29",
+    "address": "הסהנדרין, 6",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1835182,
+    "lng": 34.9091667
+  },
+  {
+    "id": "shelter-34",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 34",
+    "address": "ניצנים, 12",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.181181,
+    "lng": 34.9021825
+  },
+  {
+    "id": "shelter-35",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 35",
+    "address": "י.כהן, 4",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1858233,
+    "lng": 34.9042221
+  },
+  {
+    "id": "shelter-36",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 36",
+    "address": "פרישמן, 12",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1876476,
+    "lng": 34.9072471
+  },
+  {
+    "id": "shelter-64",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 64",
+    "address": "חניון נחשון",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1747209,
+    "lng": 34.9061069
+  },
+  {
+    "id": "shelter-37",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 37",
+    "address": "שבזי, 32",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1905264,
+    "lng": 34.9068169
+  },
+  {
+    "id": "shelter-38",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 38",
+    "address": "קפלינסקי, 3",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1900468,
+    "lng": 34.9039171
+  },
+  {
+    "id": "shelter-42",
+    "type": "shelter",
+    "subtype": "above_ground",
+    "name": "מקלט 42",
+    "address": "ויתקין, 13",
+    "accessibility": {
+      "handicap_parking": true,
+      "accessible_entrance": true,
+      "handicap_facilities": true,
+      "blind_markings": true
+    },
+    "lat": 32.1892319,
+    "lng": 34.8995488
+  },
+  {
+    "id": "shelter-1",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 1",
+    "address": "רות, 23",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.190819,
+    "lng": 34.939192
+  },
+  {
+    "id": "shelter-2",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 2",
+    "address": "השופטים, 6",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1847183,
+    "lng": 34.9389408
+  },
+  {
+    "id": "shelter-5",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 5",
+    "address": "דניאל, 5",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1857065,
+    "lng": 34.9360872
+  },
+  {
+    "id": "shelter-7",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 7",
+    "address": "לוי אשכול, 8",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1826948,
+    "lng": 34.9388722
+  },
+  {
+    "id": "shelter-9",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 9",
+    "address": "יהודה המכבי, 5",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.18375839999999,
+    "lng": 34.9420605
+  },
+  {
+    "id": "shelter-10",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 10",
+    "address": "יהודה המכבי, 2",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1842747,
+    "lng": 34.9410434
+  },
+  {
+    "id": "shelter-11",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 11",
+    "address": "שאול המלך, 5",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1841242,
+    "lng": 34.9400679
+  },
+  {
+    "id": "shelter-12",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 12",
+    "address": "שאול המלך, 19",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1850543,
+    "lng": 34.941618
+  },
+  {
+    "id": "shelter-14",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 14",
+    "address": "התאנה, 12",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1813418,
+    "lng": 34.9395466
+  },
+  {
+    "id": "shelter-15",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 15",
+    "address": "החרוב, 17",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1810655,
+    "lng": 34.9380936
+  },
+  {
+    "id": "shelter-16",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 16",
+    "address": "התמר, 15",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.18098640000001,
+    "lng": 34.9377244
+  },
+  {
+    "id": "shelter-18",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 18",
+    "address": "הרימון, 13",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1807327,
+    "lng": 34.9385182
+  },
+  {
+    "id": "shelter-20",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 20",
+    "address": "הזית, 6",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1802588,
+    "lng": 34.9395477
+  },
+  {
+    "id": "shelter-21",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 21",
+    "address": "הל\"ה, 25",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1674189,
+    "lng": 34.9252496
+  },
+  {
+    "id": "shelter-22",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 22",
+    "address": "אלקלעי/אלחריזי",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.169743,
+    "lng": 34.923588
+  },
+  {
+    "id": "shelter-23",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 23",
+    "address": "יציאת אירופה, 11",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1716795,
+    "lng": 34.9204039
+  },
+  {
+    "id": "shelter-24",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 24",
+    "address": "גרץ, 10",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1786858,
+    "lng": 34.9196525
+  },
+  {
+    "id": "shelter-25",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 25",
+    "address": "שמחה אסף, 13",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1814671,
+    "lng": 34.9179339
+  },
+  {
+    "id": "shelter-26",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 26",
+    "address": "הרב קוק, 9",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1827341,
+    "lng": 34.9121173
+  },
+  {
+    "id": "shelter-27",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 27",
+    "address": "יבנה, 3",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1812863,
+    "lng": 34.9134621
+  },
+  {
+    "id": "shelter-28",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 28",
+    "address": "הרב גולד, 10",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1801539,
+    "lng": 34.9142965
+  },
+  {
+    "id": "shelter-30",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 30",
+    "address": "שפרינצק - מזרח",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.181247,
+    "lng": 34.905372
+  },
+  {
+    "id": "shelter-31",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 31",
+    "address": "שפרינצק - מערב",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.181247,
+    "lng": 34.905372
+  },
+  {
+    "id": "shelter-32",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 32",
+    "address": "חצרות הדר, 12",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.177633,
+    "lng": 34.920512
+  },
+  {
+    "id": "shelter-33",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 33",
+    "address": "מאפו, 1",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1818243,
+    "lng": 34.8993905
+  },
+  {
+    "id": "shelter-39",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 39",
+    "address": "קפלינסקי,1",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1894108,
+    "lng": 34.903918
+  },
+  {
+    "id": "shelter-40",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 40",
+    "address": "קורצ'ק, 1",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.2759617,
+    "lng": 34.9100983
+  },
+  {
+    "id": "shelter-41",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 41",
+    "address": "פרוג, 6",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1919251,
+    "lng": 34.8958605
+  },
+  {
+    "id": "shelter-43",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 43",
+    "address": "לופבן, 3",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.189058,
+    "lng": 34.9022611
+  },
+  {
+    "id": "shelter-44",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 44",
+    "address": "רמז, 17",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1900139,
+    "lng": 34.901989
+  },
+  {
+    "id": "shelter-45",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 45",
+    "address": "סירקין, 13",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1845453,
+    "lng": 34.8995811
+  },
+  {
+    "id": "shelter-46",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 46",
+    "address": "חנה סנש, 3",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1787451,
+    "lng": 34.8968828
+  },
+  {
+    "id": "shelter-47",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 47",
+    "address": "אנצו סירני, 17",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1796233,
+    "lng": 34.8926902
+  },
+  {
+    "id": "shelter-48",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 48",
+    "address": "לוחמי הגיטאות, 22",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.178195,
+    "lng": 34.90761
+  },
+  {
+    "id": "shelter-49",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 49",
+    "address": "ההגנה, 9",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1829251,
+    "lng": 34.8921375
+  },
+  {
+    "id": "shelter-51",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 51",
+    "address": "ההסתדרות, 8",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1727555,
+    "lng": 34.895373
+  },
+  {
+    "id": "shelter-52",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 52",
+    "address": "גורדון/ששת הימים",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.158453,
+    "lng": 34.915541
+  },
+  {
+    "id": "shelter-54",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 54",
+    "address": "איינשטיין/ליאון בלום",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.172711,
+    "lng": 34.8995191
+  },
+  {
+    "id": "shelter-55",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 55",
+    "address": "ויצמן, 94-92",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1754277,
+    "lng": 34.9070008
+  },
+  {
+    "id": "shelter-57",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 57",
+    "address": "בן גוריון/אברהם קרן",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.171555,
+    "lng": 34.911863
+  },
+  {
+    "id": "shelter-58",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 58",
+    "address": "ויצמן, 136 / הרצל",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1744945,
+    "lng": 34.9110724
+  },
+  {
+    "id": "shelter-59",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 59",
+    "address": "אסף שמחוני, 9",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1808002,
+    "lng": 34.9199832
+  },
+  {
+    "id": "shelter-60",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 60",
+    "address": "ויצמן 58 / סוקולוב",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1764434,
+    "lng": 34.9024004
+  },
+  {
+    "id": "shelter-62",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 62",
+    "address": "המייסדים, 31",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1758724,
+    "lng": 34.9094692
+  },
+  {
+    "id": "shelter-63",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 63",
+    "address": "המייסדים, 9",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1753415,
+    "lng": 34.9134714
+  },
+  {
+    "id": "shelter-65",
+    "type": "shelter",
+    "subtype": "underground",
+    "name": "מקלט 65",
+    "address": "ויתקין,/רמז, 33",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1911626,
+    "lng": 34.8993948
+  },
+  {
+    "id": "shelter-50",
+    "type": "shelter",
+    "subtype": "cover",
+    "name": "מקלט 50",
+    "address": "חבצלת השרון, 9",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1748733,
+    "lng": 34.89572800000001
+  },
+  {
+    "id": "shelter-56",
+    "type": "shelter",
+    "subtype": "cover",
+    "name": "מקלט 56",
+    "address": "הגלבוע, 8",
+    "accessibility": {
+      "handicap_parking": false,
+      "accessible_entrance": false,
+      "handicap_facilities": false,
+      "blind_markings": false
+    },
+    "lat": 32.1723853,
+    "lng": 34.9118703
+  },
+  {
+    "id": "kindergarten-1",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אבטיח",
+    "address": "סקיבין 6",
+    "accessibility": null,
+    "lat": 32.1943816,
+    "lng": 34.8906307
+  },
+  {
+    "id": "kindergarten-2",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אביב",
+    "address": "יערה 11",
+    "accessibility": null,
+    "lat": 32.1869041,
+    "lng": 34.9007696
+  },
+  {
+    "id": "kindergarten-3",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אגוז",
+    "address": "המפלס 5",
+    "accessibility": null,
+    "lat": 32.1779725,
+    "lng": 34.9163444
+  },
+  {
+    "id": "kindergarten-4",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אגמית",
+    "address": "אירוס 6",
+    "accessibility": null,
+    "lat": 32.1737349,
+    "lng": 34.8950367
+  },
+  {
+    "id": "kindergarten-5",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אודם",
+    "address": "גבורות 19",
+    "accessibility": null,
+    "lat": 32.171534,
+    "lng": 34.9160521
+  },
+  {
+    "id": "kindergarten-6",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אורן",
+    "address": "בת יפתח 4",
+    "accessibility": null,
+    "lat": 32.1908171,
+    "lng": 34.9378451
+  },
+  {
+    "id": "kindergarten-7",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אירוס",
+    "address": "יוסף הדר 3",
+    "accessibility": null,
+    "lat": 32.1855128,
+    "lng": 34.8922604
+  },
+  {
+    "id": "kindergarten-8",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אלה",
+    "address": "דוד המלך 3",
+    "accessibility": null,
+    "lat": 32.183442,
+    "lng": 34.9406728
+  },
+  {
+    "id": "kindergarten-9",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אלון",
+    "address": "הושע 9",
+    "accessibility": null,
+    "lat": 32.1857741,
+    "lng": 34.9370531
+  },
+  {
+    "id": "kindergarten-10",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אלמוגן",
+    "address": "פשוש 6",
+    "accessibility": null,
+    "lat": 32.1853555,
+    "lng": 34.9301923
+  },
+  {
+    "id": "kindergarten-11",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אמנון ותמר",
+    "address": "אלתרמן 11",
+    "accessibility": null,
+    "lat": 32.1760756,
+    "lng": 34.9129174
+  },
+  {
+    "id": "kindergarten-12",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אננס",
+    "address": "אנגל 25",
+    "accessibility": null,
+    "lat": 32.195223,
+    "lng": 34.894752
+  },
+  {
+    "id": "kindergarten-13",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אנפה",
+    "address": "בקעת בית נטופה 6",
+    "accessibility": null,
+    "lat": 32.1808956,
+    "lng": 34.9295234
+  },
+  {
+    "id": "kindergarten-14",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אפיק",
+    "address": "אנגל 76",
+    "accessibility": null,
+    "lat": 32.1978267,
+    "lng": 34.891139
+  },
+  {
+    "id": "kindergarten-15",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אפרסק",
+    "address": "סקיבין 6",
+    "accessibility": null,
+    "lat": 32.1943816,
+    "lng": 34.8906307
+  },
+  {
+    "id": "kindergarten-16",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ארבל",
+    "address": "גבורות 19",
+    "accessibility": null,
+    "lat": 32.171534,
+    "lng": 34.9160521
+  },
+  {
+    "id": "kindergarten-17",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ארז",
+    "address": "הנביאים 33",
+    "accessibility": null,
+    "lat": 32.1837933,
+    "lng": 34.9388027
+  },
+  {
+    "id": "kindergarten-18",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אשכולית",
+    "address": "אנגל 23",
+    "accessibility": null,
+    "lat": 32.195243,
+    "lng": 34.894254
+  },
+  {
+    "id": "kindergarten-19",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אשל",
+    "address": "בקעת צין 5",
+    "accessibility": null,
+    "lat": 32.1804798,
+    "lng": 34.9299272
+  },
+  {
+    "id": "kindergarten-20",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "אתרוג",
+    "address": "אנגל 23",
+    "accessibility": null,
+    "lat": 32.195243,
+    "lng": 34.894254
+  },
+  {
+    "id": "kindergarten-21",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "בדולח",
+    "address": "רוטשילד 4",
+    "accessibility": null,
+    "lat": 32.1705027,
+    "lng": 34.9069719
+  },
+  {
+    "id": "kindergarten-22",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "בננה",
+    "address": "אנגל 25",
+    "accessibility": null,
+    "lat": 32.195223,
+    "lng": 34.894752
+  },
+  {
+    "id": "kindergarten-23",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ברבור",
+    "address": "בקעת באר שבע 5",
+    "accessibility": null,
+    "lat": 32.1808215,
+    "lng": 34.9301465
+  },
+  {
+    "id": "kindergarten-24",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ברוש",
+    "address": "הרצפלד אברהם 7",
+    "accessibility": null,
+    "lat": 32.1702959,
+    "lng": 34.9113407
+  },
+  {
+    "id": "kindergarten-25",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ברק",
+    "address": "הרצל 1",
+    "accessibility": null,
+    "lat": 32.170095,
+    "lng": 34.9090863
+  },
+  {
+    "id": "kindergarten-26",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ברקת",
+    "address": "הרצל 1",
+    "accessibility": null,
+    "lat": 32.170095,
+    "lng": 34.9090863
+  },
+  {
+    "id": "kindergarten-27",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "גולן",
+    "address": "הארזים 6",
+    "accessibility": null,
+    "lat": 32.1722163,
+    "lng": 34.9143928
+  },
+  {
+    "id": "kindergarten-28",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "גורים",
+    "address": "החרמון 5",
+    "accessibility": null,
+    "lat": 32.175782,
+    "lng": 34.9018715
+  },
+  {
+    "id": "kindergarten-29",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "גלבוע",
+    "address": "הארזים 6",
+    "accessibility": null,
+    "lat": 32.1722163,
+    "lng": 34.9143928
+  },
+  {
+    "id": "kindergarten-30",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "גלעד",
+    "address": "הארזים 6",
+    "accessibility": null,
+    "lat": 32.1722163,
+    "lng": 34.9143928
+  },
+  {
+    "id": "kindergarten-31",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "גפן",
+    "address": "המפלס 1",
+    "accessibility": null,
+    "lat": 32.1780876,
+    "lng": 34.9156666
+  },
+  {
+    "id": "kindergarten-32",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דגנית",
+    "address": "כנרת 7",
+    "accessibility": null,
+    "lat": 32.1770655,
+    "lng": 34.907836
+  },
+  {
+    "id": "kindergarten-33",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דובדבן",
+    "address": "עמק דותן 15",
+    "accessibility": null,
+    "lat": 32.1806429,
+    "lng": 34.9337989
+  },
+  {
+    "id": "kindergarten-34",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דודאים",
+    "address": "יא' הספורטאים 6",
+    "accessibility": null,
+    "lat": 31.9512433,
+    "lng": 34.9315856
+  },
+  {
+    "id": "kindergarten-35",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דוכיפת",
+    "address": "זמיר 5",
+    "accessibility": null,
+    "lat": 32.1845648,
+    "lng": 34.92776449999999
+  },
+  {
+    "id": "kindergarten-36",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דליה",
+    "address": "גולומב 34",
+    "accessibility": null,
+    "lat": 32.1785354,
+    "lng": 34.9010899
+  },
+  {
+    "id": "kindergarten-37",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דפנה",
+    "address": "רפפורט 6",
+    "accessibility": null,
+    "lat": 32.1925846,
+    "lng": 34.8916282
+  },
+  {
+    "id": "kindergarten-38",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דקל-דמוקרטי",
+    "address": "הגפן 12",
+    "accessibility": null,
+    "lat": 32.1820809,
+    "lng": 34.93994
+  },
+  {
+    "id": "kindergarten-39",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "דרור",
+    "address": "אהרונוביץ 15",
+    "accessibility": null,
+    "lat": 32.1720389,
+    "lng": 34.9031554
+  },
+  {
+    "id": "kindergarten-40",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "האהבה",
+    "address": "חצרות הדר 9",
+    "accessibility": null,
+    "lat": 32.1802613,
+    "lng": 34.9023997
+  },
+  {
+    "id": "kindergarten-41",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "הגליל",
+    "address": "יא' הספורטאים 6",
+    "accessibility": null,
+    "lat": 31.9512433,
+    "lng": 34.9315856
+  },
+  {
+    "id": "kindergarten-42",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "הדס",
+    "address": "הנוטעים 3",
+    "accessibility": null,
+    "lat": 32.252015,
+    "lng": 34.87046
+  },
+  {
+    "id": "kindergarten-43",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "הדר",
+    "address": "לבונה 10",
+    "accessibility": null,
+    "lat": 32.1829871,
+    "lng": 34.9358745
+  },
+  {
+    "id": "kindergarten-44",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "הכרם",
+    "address": "מרכוס 10",
+    "accessibility": null,
+    "lat": 32.1795422,
+    "lng": 34.8926252
+  },
+  {
+    "id": "kindergarten-45",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "הניה",
+    "address": "לוינסקי 10",
+    "accessibility": null,
+    "lat": 32.1856566,
+    "lng": 34.9001327
+  },
+  {
+    "id": "kindergarten-46",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "הפנינה",
+    "address": "גבורות 9",
+    "accessibility": null,
+    "lat": 32.1713775,
+    "lng": 34.9160085
+  },
+  {
+    "id": "kindergarten-47",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "הפרחים",
+    "address": "רש\"י 9",
+    "accessibility": null,
+    "lat": 32.1811082,
+    "lng": 34.9084837
+  },
+  {
+    "id": "kindergarten-48",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "השושן",
+    "address": "תלם 4",
+    "accessibility": null,
+    "lat": 32.1844158,
+    "lng": 34.89724100000001
+  },
+  {
+    "id": "kindergarten-49",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ורד",
+    "address": "הרב קוק 9 )מפתח ניתן לתושבים(",
+    "accessibility": null,
+    "lat": 32.1827341,
+    "lng": 34.9121173
+  },
+  {
+    "id": "kindergarten-50",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "זית",
+    "address": "המפלס 4",
+    "accessibility": null,
+    "lat": 32.177717,
+    "lng": 34.915648
+  },
+  {
+    "id": "kindergarten-51",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "זמיר",
+    "address": "ירושלים 17",
+    "accessibility": null,
+    "lat": 32.1745241,
+    "lng": 34.9052867
+  },
+  {
+    "id": "kindergarten-52",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "זמר",
+    "address": "מאיר אריאל 2",
+    "accessibility": null,
+    "lat": 32.1875972,
+    "lng": 34.8936038
+  },
+  {
+    "id": "kindergarten-53",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חוחית",
+    "address": "ירושלים 17",
+    "accessibility": null,
+    "lat": 32.1745241,
+    "lng": 34.9052867
+  },
+  {
+    "id": "kindergarten-54",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חופית",
+    "address": "סמ שחף 3",
+    "accessibility": null,
+    "lat": 32.1870296,
+    "lng": 34.9272329
+  },
+  {
+    "id": "kindergarten-55",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חיננית",
+    "address": "אלתרמן 13",
+    "accessibility": null,
+    "lat": 32.1762895,
+    "lng": 34.9129827
+  },
+  {
+    "id": "kindergarten-56",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חסידה",
+    "address": "בקעת באר שבע 5",
+    "accessibility": null,
+    "lat": 32.1808215,
+    "lng": 34.9301465
+  },
+  {
+    "id": "kindergarten-57",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חצב",
+    "address": "השלום 10",
+    "accessibility": null,
+    "lat": 32.1796348,
+    "lng": 34.912513
+  },
+  {
+    "id": "kindergarten-58",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חצוצרה",
+    "address": "בנאי יוסי 3",
+    "accessibility": null,
+    "lat": 32.1889888,
+    "lng": 34.895234
+  },
+  {
+    "id": "kindergarten-59",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חרוב",
+    "address": "המפלס 5",
+    "accessibility": null,
+    "lat": 32.1779725,
+    "lng": 34.9163444
+  },
+  {
+    "id": "kindergarten-60",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חרמון",
+    "address": "קרן אברהם 37",
+    "accessibility": null,
+    "lat": 32.1730672,
+    "lng": 34.9121689
+  },
+  {
+    "id": "kindergarten-61",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "חרצית",
+    "address": "סמ אביבים 6",
+    "accessibility": null,
+    "lat": 32.1793251,
+    "lng": 34.9110565
+  },
+  {
+    "id": "kindergarten-62",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ידידות",
+    "address": "הראשונים 29",
+    "accessibility": null,
+    "lat": 32.168611,
+    "lng": 34.92101
+  },
+  {
+    "id": "kindergarten-63",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "יהודה",
+    "address": "בן גוריון 60",
+    "accessibility": null,
+    "lat": 32.1713568,
+    "lng": 34.9122535
+  },
+  {
+    "id": "kindergarten-64",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "יהלום",
+    "address": "גבורות 9",
+    "accessibility": null,
+    "lat": 32.1713775,
+    "lng": 34.9160085
+  },
+  {
+    "id": "kindergarten-65",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "יואב",
+    "address": "בן גוריון 60",
+    "accessibility": null,
+    "lat": 32.1713568,
+    "lng": 34.9122535
+  },
+  {
+    "id": "kindergarten-66",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "יובל",
+    "address": "אנגל 76",
+    "accessibility": null,
+    "lat": 32.1978267,
+    "lng": 34.891139
+  },
+  {
+    "id": "kindergarten-67",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "יערה",
+    "address": "המייסדים 27",
+    "accessibility": null,
+    "lat": 32.1757472,
+    "lng": 34.9106349
+  },
+  {
+    "id": "kindergarten-68",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "יערון",
+    "address": "המיסדים 27",
+    "accessibility": null,
+    "lat": 32.1757472,
+    "lng": 34.9106349
+  },
+  {
+    "id": "kindergarten-69",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "יקינטון - מונטיסורי",
+    "address": "ויתקין 12",
+    "accessibility": null,
+    "lat": 32.1897541,
+    "lng": 34.8996778
+  },
+  {
+    "id": "kindergarten-70",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ירדן",
+    "address": "רוטשילד 4",
+    "accessibility": null,
+    "lat": 32.1705027,
+    "lng": 34.9069719
+  },
+  {
+    "id": "kindergarten-71",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "כחל",
+    "address": "אנה פרנק 14",
+    "accessibility": null,
+    "lat": 32.1752638,
+    "lng": 34.9032262
+  },
+  {
+    "id": "kindergarten-72",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "כינור",
+    "address": "בנאי יוסי 3",
+    "accessibility": null,
+    "lat": 32.1889888,
+    "lng": 34.895234
+  },
+  {
+    "id": "kindergarten-73",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "כלנית",
+    "address": "המפלס 6",
+    "accessibility": null,
+    "lat": 32.1777359,
+    "lng": 34.915913
+  },
+  {
+    "id": "kindergarten-74",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "כפיר",
+    "address": "קרן אברהם 37",
+    "accessibility": null,
+    "lat": 32.1730672,
+    "lng": 34.9121689
+  },
+  {
+    "id": "kindergarten-75",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "כרכום",
+    "address": "רפפורט 6",
+    "accessibility": null,
+    "lat": 32.1925846,
+    "lng": 34.8916282
+  },
+  {
+    "id": "kindergarten-76",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "כרמים",
+    "address": "תל חי 26",
+    "accessibility": null,
+    "lat": 32.1732946,
+    "lng": 34.9140471
+  },
+  {
+    "id": "kindergarten-77",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "כרמל",
+    "address": "יציאת אירופה 24",
+    "accessibility": null,
+    "lat": 32.1714267,
+    "lng": 34.9201155
+  },
+  {
+    "id": "kindergarten-78",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "לבונה",
+    "address": "גולד זאב 13",
+    "accessibility": null,
+    "lat": 32.1758942,
+    "lng": 34.8971542
+  },
+  {
+    "id": "kindergarten-79",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "לוטם",
+    "address": "סנה משה 19",
+    "accessibility": null,
+    "lat": 32.1851163,
+    "lng": 34.8960529
+  },
+  {
+    "id": "kindergarten-80",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "לחן",
+    "address": "בנאי יוסי 3",
+    "accessibility": null,
+    "lat": 32.1889888,
+    "lng": 34.895234
+  },
+  {
+    "id": "kindergarten-81",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ליבנה",
+    "address": "העמק 28",
+    "accessibility": null,
+    "lat": 32.1742316,
+    "lng": 34.9158361
+  },
+  {
+    "id": "kindergarten-82",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "לילי",
+    "address": "גלר זאב 18",
+    "accessibility": null,
+    "lat": 32.1751126,
+    "lng": 34.8964048
+  },
+  {
+    "id": "kindergarten-83",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "לילך",
+    "address": "גולומב 34",
+    "accessibility": null,
+    "lat": 32.1785354,
+    "lng": 34.9010899
+  },
+  {
+    "id": "kindergarten-84",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "לימון",
+    "address": "ויינברג 7",
+    "accessibility": null,
+    "lat": 32.178195,
+    "lng": 34.90761
+  },
+  {
+    "id": "kindergarten-85",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "לשם",
+    "address": "חטיבת הראל 13",
+    "accessibility": null,
+    "lat": 32.1717517,
+    "lng": 34.9157099
+  },
+  {
+    "id": "kindergarten-86",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מולדת",
+    "address": "גלר זאב 14",
+    "accessibility": null,
+    "lat": 32.1752361,
+    "lng": 34.8967143
+  },
+  {
+    "id": "kindergarten-87",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מור",
+    "address": "גולד זאב 13",
+    "accessibility": null,
+    "lat": 32.1758942,
+    "lng": 34.8971542
+  },
+  {
+    "id": "kindergarten-88",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מירון",
+    "address": "הארזים 6",
+    "accessibility": null,
+    "lat": 32.1722163,
+    "lng": 34.9143928
+  },
+  {
+    "id": "kindergarten-89",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מיתר",
+    "address": "רוזנבלום יאיר 24",
+    "accessibility": null,
+    "lat": 32.1895575,
+    "lng": 34.8955269
+  },
+  {
+    "id": "kindergarten-90",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מנגו",
+    "address": "אנגל 25",
+    "accessibility": null,
+    "lat": 32.195223,
+    "lng": 34.894752
+  },
+  {
+    "id": "kindergarten-91",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מנגינה",
+    "address": "בנאי יוסי 3",
+    "accessibility": null,
+    "lat": 32.1889888,
+    "lng": 34.895234
+  },
+  {
+    "id": "kindergarten-92",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מעיין",
+    "address": "אנגל 76",
+    "accessibility": null,
+    "lat": 32.1978267,
+    "lng": 34.891139
+  },
+  {
+    "id": "kindergarten-93",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מפוחית",
+    "address": "רוזנבלום יאיר 24",
+    "accessibility": null,
+    "lat": 32.1895575,
+    "lng": 34.8955269
+  },
+  {
+    "id": "kindergarten-94",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "מרווה",
+    "address": "רפפורט 6",
+    "accessibility": null,
+    "lat": 32.1925846,
+    "lng": 34.8916282
+  },
+  {
+    "id": "kindergarten-95",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "נבל",
+    "address": "ויתקין 12",
+    "accessibility": null,
+    "lat": 32.1897541,
+    "lng": 34.8996778
+  },
+  {
+    "id": "kindergarten-96",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "נופר",
+    "address": "ויתקין 12",
+    "accessibility": null,
+    "lat": 32.1897541,
+    "lng": 34.8996778
+  },
+  {
+    "id": "kindergarten-97",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "נורית",
+    "address": "הוז דב 25",
+    "accessibility": null,
+    "lat": 32.1795627,
+    "lng": 34.9024091
+  },
+  {
+    "id": "kindergarten-98",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "נחל",
+    "address": "אנגל 76",
+    "accessibility": null,
+    "lat": 32.1978267,
+    "lng": 34.891139
+  },
+  {
+    "id": "kindergarten-99",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "נחליאלי",
+    "address": "חסידה 4",
+    "accessibility": null,
+    "lat": 32.1869188,
+    "lng": 34.9264282
+  },
+  {
+    "id": "kindergarten-100",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ניצנים",
+    "address": "אז\"ר 5",
+    "accessibility": null,
+    "lat": 32.185395,
+    "lng": 34.903527
+  },
+  {
+    "id": "kindergarten-101",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "נענע",
+    "address": "רפפורט 6",
+    "accessibility": null,
+    "lat": 32.1925846,
+    "lng": 34.8916282
+  },
+  {
+    "id": "kindergarten-102",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "נרקיס",
+    "address": "המייסדים 27",
+    "accessibility": null,
+    "lat": 32.1757472,
+    "lng": 34.9106349
+  },
+  {
+    "id": "kindergarten-103",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סביון",
+    "address": "הרצפלד אברהם 8",
+    "accessibility": null,
+    "lat": 32.1706079,
+    "lng": 34.9116617
+  },
+  {
+    "id": "kindergarten-104",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סביונים",
+    "address": "יערה 11",
+    "accessibility": null,
+    "lat": 32.1869041,
+    "lng": 34.9007696
+  },
+  {
+    "id": "kindergarten-105",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סופית",
+    "address": "אנה פרנק 14",
+    "accessibility": null,
+    "lat": 32.1752638,
+    "lng": 34.9032262
+  },
+  {
+    "id": "kindergarten-106",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סחלב",
+    "address": "יוסף הדר 3",
+    "accessibility": null,
+    "lat": 32.1855128,
+    "lng": 34.8922604
+  },
+  {
+    "id": "kindergarten-107",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סיגלון",
+    "address": "יונה 10",
+    "accessibility": null,
+    "lat": 32.1881037,
+    "lng": 34.9382332
+  },
+  {
+    "id": "kindergarten-108",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סייפן",
+    "address": "חרמון 5",
+    "accessibility": null,
+    "lat": 32.175782,
+    "lng": 34.9018715
+  },
+  {
+    "id": "kindergarten-109",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סיתוונית",
+    "address": "גבורי ישראל 4",
+    "accessibility": null,
+    "lat": 32.1754712,
+    "lng": 34.9103034
+  },
+  {
+    "id": "kindergarten-110",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סלעית",
+    "address": "זמיר 5",
+    "accessibility": null,
+    "lat": 32.1845648,
+    "lng": 34.92776449999999
+  },
+  {
+    "id": "kindergarten-111",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "סנונית",
+    "address": "ירושלים 15",
+    "accessibility": null,
+    "lat": 32.1743461,
+    "lng": 34.9051755
+  },
+  {
+    "id": "kindergarten-112",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ספיר",
+    "address": "הרצל 1",
+    "accessibility": null,
+    "lat": 32.170095,
+    "lng": 34.9090863
+  },
+  {
+    "id": "kindergarten-113",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "עגור",
+    "address": "שלום אש 4",
+    "accessibility": null,
+    "lat": 32.1720286,
+    "lng": 34.8998845
+  },
+  {
+    "id": "kindergarten-114",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "עופר",
+    "address": "מורדי הגטאות 41",
+    "accessibility": null,
+    "lat": 32.179626,
+    "lng": 34.890239
+  },
+  {
+    "id": "kindergarten-115",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "עין התכלת",
+    "address": "כנרת 7",
+    "accessibility": null,
+    "lat": 32.1770655,
+    "lng": 34.907836
+  },
+  {
+    "id": "kindergarten-116",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "עינב",
+    "address": "סקיבין 6",
+    "accessibility": null,
+    "lat": 32.1943816,
+    "lng": 34.8906307
+  },
+  {
+    "id": "kindergarten-117",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "עירית",
+    "address": "השחר 19",
+    "accessibility": null,
+    "lat": 32.1797825,
+    "lng": 34.9093745
+  },
+  {
+    "id": "kindergarten-118",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "עפרוני",
+    "address": "אלקלעי 1",
+    "accessibility": null,
+    "lat": 32.1710942,
+    "lng": 34.9233012
+  },
+  {
+    "id": "kindergarten-119",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ערבה",
+    "address": "הושע 9",
+    "accessibility": null,
+    "lat": 32.1857741,
+    "lng": 34.9370531
+  },
+  {
+    "id": "kindergarten-120",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "פטל",
+    "address": "סקיבין 1",
+    "accessibility": null,
+    "lat": 32.194778,
+    "lng": 34.8900104
+  },
+  {
+    "id": "kindergarten-121",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "פיקוס",
+    "address": "דניאל 10",
+    "accessibility": null,
+    "lat": 32.1845476,
+    "lng": 34.9359818
+  },
+  {
+    "id": "kindergarten-122",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "פלג",
+    "address": "רש\"י 9",
+    "accessibility": null,
+    "lat": 32.1811082,
+    "lng": 34.9084837
+  },
+  {
+    "id": "kindergarten-123",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "פלמינגו",
+    "address": "אלחריזי 9",
+    "accessibility": null,
+    "lat": 32.1693459,
+    "lng": 34.9246099
+  },
+  {
+    "id": "kindergarten-124",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "פעמון",
+    "address": "מאיר אריאל 2",
+    "accessibility": null,
+    "lat": 32.1875972,
+    "lng": 34.8936038
+  },
+  {
+    "id": "kindergarten-125",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "פקאן",
+    "address": "יהודה המכבי 3",
+    "accessibility": null,
+    "lat": 32.1832411,
+    "lng": 34.9420687
+  },
+  {
+    "id": "kindergarten-126",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "פשוש",
+    "address": "הפרדס 10",
+    "accessibility": null,
+    "lat": 32.1746963,
+    "lng": 34.8986042
+  },
+  {
+    "id": "kindergarten-127",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צאלון",
+    "address": "טירת צבי 14",
+    "accessibility": null,
+    "lat": 32.181071,
+    "lng": 34.9175764
+  },
+  {
+    "id": "kindergarten-128",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צבעוני",
+    "address": "יהודה המכבי 3",
+    "accessibility": null,
+    "lat": 32.1832411,
+    "lng": 34.9420687
+  },
+  {
+    "id": "kindergarten-129",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צבר",
+    "address": "הנביאים 33",
+    "accessibility": null,
+    "lat": 32.1837933,
+    "lng": 34.9388027
+  },
+  {
+    "id": "kindergarten-130",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צוף",
+    "address": "תל חי 26",
+    "accessibility": null,
+    "lat": 32.1732946,
+    "lng": 34.9140471
+  },
+  {
+    "id": "kindergarten-131",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צופית",
+    "address": "זמיר 3",
+    "accessibility": null,
+    "lat": 32.1843904,
+    "lng": 34.9277673
+  },
+  {
+    "id": "kindergarten-132",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צוקית",
+    "address": "אירוס 6",
+    "accessibility": null,
+    "lat": 32.1737349,
+    "lng": 34.8950367
+  },
+  {
+    "id": "kindergarten-133",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צור",
+    "address": "הפרדס 10",
+    "accessibility": null,
+    "lat": 32.1746963,
+    "lng": 34.8986042
+  },
+  {
+    "id": "kindergarten-134",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צליל",
+    "address": "מאיר אריאל 1",
+    "accessibility": null,
+    "lat": 32.187714,
+    "lng": 34.8937445
+  },
+  {
+    "id": "kindergarten-135",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "צפצפה",
+    "address": "קרן אברהם 24",
+    "accessibility": null,
+    "lat": 32.1722119,
+    "lng": 34.9121989
+  },
+  {
+    "id": "kindergarten-136",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "קוקוס",
+    "address": "רפפורט 8",
+    "accessibility": null,
+    "lat": 32.192347,
+    "lng": 34.892751
+  },
+  {
+    "id": "kindergarten-137",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "קוקיה",
+    "address": "זמיר 3",
+    "accessibility": null,
+    "lat": 32.1843904,
+    "lng": 34.9277673
+  },
+  {
+    "id": "kindergarten-138",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "קימל",
+    "address": "רפפורט 8",
+    "accessibility": null,
+    "lat": 32.192347,
+    "lng": 34.892751
+  },
+  {
+    "id": "kindergarten-139",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "קינמון",
+    "address": "רפפורט 8",
+    "accessibility": null,
+    "lat": 32.192347,
+    "lng": 34.892751
+  },
+  {
+    "id": "kindergarten-140",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "קנרית",
+    "address": "זמיר 3",
+    "accessibility": null,
+    "lat": 32.1843904,
+    "lng": 34.9277673
+  },
+  {
+    "id": "kindergarten-141",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "קקאו",
+    "address": "רפפורט 8",
+    "accessibility": null,
+    "lat": 32.192347,
+    "lng": 34.892751
+  },
+  {
+    "id": "kindergarten-142",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "קשת",
+    "address": "רוזנבלום יאיר 24",
+    "accessibility": null,
+    "lat": 32.1895575,
+    "lng": 34.8955269
+  },
+  {
+    "id": "kindergarten-143",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "רותם",
+    "address": "יואל 1",
+    "accessibility": null,
+    "lat": 32.1851409,
+    "lng": 34.93382709999999
+  },
+  {
+    "id": "kindergarten-144",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "ריחן",
+    "address": "גיבורי ישראל 4",
+    "accessibility": null,
+    "lat": 32.1754712,
+    "lng": 34.9103034
+  },
+  {
+    "id": "kindergarten-145",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "רימון",
+    "address": "המפלס 6",
+    "accessibility": null,
+    "lat": 32.1777359,
+    "lng": 34.915913
+  },
+  {
+    "id": "kindergarten-146",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "רעות",
+    "address": "הראשונים 29",
+    "accessibility": null,
+    "lat": 32.168611,
+    "lng": 34.92101
+  },
+  {
+    "id": "kindergarten-147",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "רקפת",
+    "address": "הגליל 6",
+    "accessibility": null,
+    "lat": 32.1740656,
+    "lng": 34.9170823
+  },
+  {
+    "id": "kindergarten-148",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שוהם",
+    "address": "הרצל 1",
+    "accessibility": null,
+    "lat": 32.170095,
+    "lng": 34.9090863
+  },
+  {
+    "id": "kindergarten-149",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שומרון",
+    "address": "הגליל 6",
+    "accessibility": null,
+    "lat": 32.1740656,
+    "lng": 34.9170823
+  },
+  {
+    "id": "kindergarten-150",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שחף",
+    "address": "איינשטיין 5",
+    "accessibility": null,
+    "lat": 32.1724147,
+    "lng": 34.9002087
+  },
+  {
+    "id": "kindergarten-151",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שיבולת",
+    "address": "השלום 10",
+    "accessibility": null,
+    "lat": 32.1796348,
+    "lng": 34.912513
+  },
+  {
+    "id": "kindergarten-152",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שיזף",
+    "address": "האילנות 28",
+    "accessibility": null,
+    "lat": 32.1820846,
+    "lng": 34.9375257
+  },
+  {
+    "id": "kindergarten-153",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שיטה",
+    "address": "יהודה המכבי 10",
+    "accessibility": null,
+    "lat": 32.1831583,
+    "lng": 34.942072
+  },
+  {
+    "id": "kindergarten-154",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שלדג",
+    "address": "אירוס 6",
+    "accessibility": null,
+    "lat": 32.1737349,
+    "lng": 34.8950367
+  },
+  {
+    "id": "kindergarten-155",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שקד",
+    "address": "הגפן 12",
+    "accessibility": null,
+    "lat": 32.1820809,
+    "lng": 34.93994
+  },
+  {
+    "id": "kindergarten-156",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שקמה",
+    "address": "י\"א הספורטאים 6",
+    "accessibility": null,
+    "lat": 31.9512433,
+    "lng": 34.9315856
+  },
+  {
+    "id": "kindergarten-157",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שרון",
+    "address": "יציאת אירופה 24",
+    "accessibility": null,
+    "lat": 32.1714267,
+    "lng": 34.9201155
+  },
+  {
+    "id": "kindergarten-158",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "שרקרק",
+    "address": "זמיר 3",
+    "accessibility": null,
+    "lat": 32.1843904,
+    "lng": 34.9277673
+  },
+  {
+    "id": "kindergarten-159",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תאנה",
+    "address": "יהודה המכבי 3",
+    "accessibility": null,
+    "lat": 32.1832411,
+    "lng": 34.9420687
+  },
+  {
+    "id": "kindergarten-160",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תבור",
+    "address": "הבנים 10",
+    "accessibility": null,
+    "lat": 32.1735202,
+    "lng": 34.9122704
+  },
+  {
+    "id": "kindergarten-161",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תדהר",
+    "address": "טירת צבי 14",
+    "accessibility": null,
+    "lat": 32.181071,
+    "lng": 34.9175764
+  },
+  {
+    "id": "kindergarten-162",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תומר",
+    "address": "אח\"י אילת 14",
+    "accessibility": null,
+    "lat": 32.173785,
+    "lng": 34.921272
+  },
+  {
+    "id": "kindergarten-163",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תות",
+    "address": "עמק דותן 15",
+    "accessibility": null,
+    "lat": 32.1806429,
+    "lng": 34.9337989
+  },
+  {
+    "id": "kindergarten-164",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תלתן",
+    "address": "רש\"י 9",
+    "accessibility": null,
+    "lat": 32.1811082,
+    "lng": 34.9084837
+  },
+  {
+    "id": "kindergarten-165",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תמירון",
+    "address": "אירוס 6",
+    "accessibility": null,
+    "lat": 32.1737349,
+    "lng": 34.8950367
+  },
+  {
+    "id": "kindergarten-166",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תמר",
+    "address": "פשוש 6",
+    "accessibility": null,
+    "lat": 32.1853555,
+    "lng": 34.9301923
+  },
+  {
+    "id": "kindergarten-167",
+    "type": "kindergarten",
+    "subtype": null,
+    "name": "תפוז",
+    "address": "ויינברג 7",
+    "accessibility": null,
+    "lat": 32.178195,
+    "lng": 34.90761
+  },
+  {
+    "id": "park-1",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גינת גורדון",
+    "address": "גורדון 19",
+    "nearbyShelterAddress": "גורדון/ששת הימים",
+    "accessibility": null,
+    "lat": 32.1752369,
+    "lng": 34.8989354
+  },
+  {
+    "id": "park-2",
+    "type": "park",
+    "subtype": "security_room",
+    "name": "גינת סקיבין",
+    "address": "סקיבין 15",
+    "nearbyShelterAddress": "ישראל ישעיהו 14",
+    "accessibility": null,
+    "lat": 32.1944339,
+    "lng": 34.8924696
+  },
+  {
+    "id": "park-3",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן אברהם",
+    "address": "פלמח 10",
+    "nearbyShelterAddress": "ההגנה, 9",
+    "accessibility": null,
+    "lat": 32.1821493,
+    "lng": 34.8924408
+  },
+  {
+    "id": "park-4",
+    "type": "park",
+    "subtype": "security_room",
+    "name": "גן אלי כהן",
+    "address": "אח\"י דקר 3",
+    "nearbyShelterAddress": "הר רביד 2",
+    "accessibility": null,
+    "lat": 32.1728901,
+    "lng": 34.9214612
+  },
+  {
+    "id": "park-5",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן אלעזר",
+    "address": "המיסדים 7",
+    "nearbyShelterAddress": "המייסדים, 9",
+    "accessibility": null,
+    "lat": 32.1753019,
+    "lng": 34.9136213
+  },
+  {
+    "id": "park-6",
+    "type": "park",
+    "subtype": "above_ground",
+    "name": "גן בית האבן",
+    "address": "אשכול לוי 24",
+    "nearbyShelterAddress": "התאנה, 2",
+    "accessibility": null,
+    "lat": 32.2002484,
+    "lng": 34.8886679
+  },
+  {
+    "id": "park-7",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן בית לזרוס",
+    "address": "רינגלבלום 1",
+    "nearbyShelterAddress": "פרוג, 6",
+    "accessibility": null,
+    "lat": 32.1927539,
+    "lng": 34.8970888
+  },
+  {
+    "id": "park-8",
+    "type": "park",
+    "subtype": "security_room",
+    "name": "גן בנה ביתך",
+    "address": "בן יהודה 91",
+    "nearbyShelterAddress": "יואל פינת בן יהודה",
+    "accessibility": null,
+    "lat": 32.1836025,
+    "lng": 34.9333258
+  },
+  {
+    "id": "park-9",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן גאולים",
+    "address": "אבן שפרוט 10",
+    "nearbyShelterAddress": "אלקלעי 8",
+    "accessibility": null,
+    "lat": 32.1691702,
+    "lng": 34.9252172
+  },
+  {
+    "id": "park-10",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן האלונים",
+    "address": "מורדי הגטאות 23",
+    "nearbyShelterAddress": "מורדי הגיטאות, 22",
+    "accessibility": null,
+    "lat": 32.17956,
+    "lng": 34.890437
+  },
+  {
+    "id": "park-11",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן הבנים",
+    "address": "דוד המלך 7",
+    "nearbyShelterAddress": "יהודה המכבי, 2",
+    "accessibility": null,
+    "lat": 32.1828706,
+    "lng": 34.941071
+  },
+  {
+    "id": "park-12",
+    "type": "park",
+    "subtype": "cover",
+    "name": "גן החלוץ",
+    "address": "קרן אברהם 30",
+    "nearbyShelterAddress": "הגלבוע, 8",
+    "accessibility": null,
+    "lat": 32.1726623,
+    "lng": 34.91232919999999
+  },
+  {
+    "id": "park-13",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן המחתרות",
+    "address": "המחתרות 10",
+    "nearbyShelterAddress": "גרץ, 10",
+    "accessibility": null,
+    "lat": 32.179181,
+    "lng": 34.9209255
+  },
+  {
+    "id": "park-14",
+    "type": "park",
+    "subtype": "security_room",
+    "name": "גן העלייה",
+    "address": "קפלנסקי 15",
+    "nearbyShelterAddress": "בגינה הציבורית מול קפלנסקי 22",
+    "accessibility": null,
+    "lat": 32.1912756,
+    "lng": 34.9011809
+  },
+  {
+    "id": "park-15",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן התשעה",
+    "address": "מצדה 6",
+    "nearbyShelterAddress": "יהודה המכבי, 5",
+    "accessibility": null,
+    "lat": 32.1846065,
+    "lng": 34.942501
+  },
+  {
+    "id": "park-16",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן טירת צבי",
+    "address": "טירת צבי 18",
+    "nearbyShelterAddress": "שמחה אסף, 13",
+    "accessibility": null,
+    "lat": 32.1811075,
+    "lng": 34.9174208
+  },
+  {
+    "id": "park-17",
+    "type": "park",
+    "subtype": "above_ground",
+    "name": "גן לובטקין",
+    "address": "הצבעוני 16",
+    "nearbyShelterAddress": "ניצנים, 12",
+    "accessibility": null,
+    "lat": 32.1827465,
+    "lng": 34.9024794
+  },
+  {
+    "id": "park-18",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן לוקי",
+    "address": "שדה יצחק 1",
+    "nearbyShelterAddress": "אסף שמחוני, 9",
+    "accessibility": null,
+    "lat": 32.1808946,
+    "lng": 34.9201652
+  },
+  {
+    "id": "park-19",
+    "type": "park",
+    "subtype": "above_ground",
+    "name": "גן לחמן",
+    "address": "אז\"ר 30",
+    "nearbyShelterAddress": "הסהנדרין, 6",
+    "accessibility": null,
+    "lat": 32.1839712,
+    "lng": 34.9089574
+  },
+  {
+    "id": "park-20",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן מועדון עציון",
+    "address": "גולד זאב 10",
+    "nearbyShelterAddress": "זאב גולד, 10",
+    "accessibility": null,
+    "lat": 32.185,
+    "lng": 34.951584
+  },
+  {
+    "id": "park-21",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן מתנ\"ס גלר",
+    "address": "החרוב 10",
+    "nearbyShelterAddress": "לוי אשכול, 8",
+    "accessibility": null,
+    "lat": 32.1812085,
+    "lng": 34.9383364
+  },
+  {
+    "id": "park-22",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן סירקין",
+    "address": "סירקין 9",
+    "nearbyShelterAddress": "סירקין, 13",
+    "accessibility": null,
+    "lat": 32.1840645,
+    "lng": 34.899549
+  },
+  {
+    "id": "park-23",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן עובד בן ציון",
+    "address": "טרומן 8",
+    "nearbyShelterAddress": "איינשטיין/ליאון בלום",
+    "accessibility": null,
+    "lat": 32.1731866,
+    "lng": 34.9003029
+  },
+  {
+    "id": "park-24",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן פיירברג",
+    "address": "מאפו 8",
+    "nearbyShelterAddress": "מאפו, 1",
+    "accessibility": null,
+    "lat": 32.1812161,
+    "lng": 34.8987064
+  },
+  {
+    "id": "park-25",
+    "type": "park",
+    "subtype": "above_ground",
+    "name": "גן פרישמן",
+    "address": "אצ\"ג 1",
+    "nearbyShelterAddress": "פרישמן, 12",
+    "accessibility": null,
+    "lat": 32.1869595,
+    "lng": 34.9073598
+  },
+  {
+    "id": "park-26",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן קולנוע עמל",
+    "address": "בן גוריון 57",
+    "nearbyShelterAddress": "בן גוריון/אברהם קרן",
+    "accessibility": null,
+    "lat": 32.1718018,
+    "lng": 34.9111481
+  },
+  {
+    "id": "park-27",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן קפלן",
+    "address": "ירמיהו 9",
+    "nearbyShelterAddress": "דניאל, 5",
+    "accessibility": null,
+    "lat": 32.1856442,
+    "lng": 34.9367078
+  },
+  {
+    "id": "park-28",
+    "type": "park",
+    "subtype": "above_ground",
+    "name": "גן קפלן",
+    "address": "ירמיהו 9",
+    "nearbyShelterAddress": "עמוס, 10",
+    "accessibility": null,
+    "lat": 32.1856442,
+    "lng": 34.9367078
+  },
+  {
+    "id": "park-29",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן רות",
+    "address": "רות 13",
+    "nearbyShelterAddress": "רות, 23",
+    "accessibility": null,
+    "lat": 32.1911982,
+    "lng": 34.9384434
+  },
+  {
+    "id": "park-30",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן שפירא",
+    "address": "הרב קוק 9",
+    "nearbyShelterAddress": "הרב קוק, 9",
+    "accessibility": null,
+    "lat": 32.1827341,
+    "lng": 34.9121173
+  },
+  {
+    "id": "park-31",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן שפרינצק",
+    "address": "שפרינצק 10",
+    "nearbyShelterAddress": "שפרינצק - מזרח",
+    "accessibility": null,
+    "lat": 32.1810004,
+    "lng": 34.9052583
+  },
+  {
+    "id": "park-32",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן תקומה",
+    "address": "יציאת אירופה 17",
+    "nearbyShelterAddress": "יציאת אירופה, 11",
+    "accessibility": null,
+    "lat": 32.1715025,
+    "lng": 34.9210813
+  },
+  {
+    "id": "park-33",
+    "type": "park",
+    "subtype": "underground",
+    "name": "גן תריי עשר",
+    "address": "תרי עשר 11",
+    "nearbyShelterAddress": "רות, 23",
+    "accessibility": null,
+    "lat": 32.1905251,
+    "lng": 34.9399497
+  },
+  {
+    "id": "park-34",
+    "type": "park",
+    "subtype": "above_ground",
+    "name": "דויד המלך ד",
+    "address": "דוד המלך 24",
+    "nearbyShelterAddress": "שלמה המלך, 4",
+    "accessibility": null,
+    "lat": 32.1819831,
+    "lng": 34.9416266
+  },
+  {
+    "id": "park-35",
+    "type": "park",
+    "subtype": "security_room",
+    "name": "פארק השכונה הירוקה",
+    "address": "אנגל 60",
+    "nearbyShelterAddress": "ליד תחנת שאיבת הביוב / מרכז הטניס",
+    "accessibility": null,
+    "lat": 32.1969422,
+    "lng": 34.8972992
+  },
+  {
+    "id": "park-36",
+    "type": "park",
+    "subtype": "security_room",
+    "name": "פארק עירוני- יצחק ולד",
+    "address": "הפועל - דרך 35",
+    "nearbyShelterAddress": "הר רביד 2",
+    "accessibility": null,
+    "lat": 32.1772876,
+    "lng": 34.9000352
+  },
+  {
+    "id": "park-37",
+    "type": "park",
+    "subtype": "security_room",
+    "name": "פארק עירוני- יצחק ולד",
+    "address": "הפועל - דרך 35",
+    "nearbyShelterAddress": "ליד שער 30 / רחוב התוכנה",
+    "accessibility": null,
+    "lat": 32.1772876,
+    "lng": 34.9000352
+  }
+]

@@ -1,0 +1,19 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  font-family: 'Segoe UI', system-ui, Arial, sans-serif;
+  direction: rtl;
+}
+
+:root {
+  --panel-height: 220px;
+  --card-bg: #ffffff;
+  --shadow: 0 2px 8px rgba(0,0,0,0.18);
+  --primary: #1a73e8;
+}
