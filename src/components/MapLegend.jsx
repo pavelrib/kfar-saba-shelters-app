@@ -1,7 +1,9 @@
+import { MARKER_COLORS } from '../constants.js'
+
 const LEGEND_ITEMS = [
-  { icon: '/icons/shelter-underground.png', label: 'מקלט תת-קרקעי' },
-  { icon: '/icons/shelter-above.png', label: 'מקלט עילי / גינה' },
-  { icon: '/icons/kindergarten.png', label: 'גן ילדים' },
+  { type: 'shelter', label: 'מקלט' },
+  { type: 'kindergarten', label: 'גן ילדים' },
+  { type: 'park', label: 'גינה ציבורית' },
 ]
 
 export function MapLegend() {
@@ -12,9 +14,12 @@ export function MapLegend() {
       padding: '8px 12px', boxShadow: '0 2px 8px rgba(0,0,0,0.15)',
       display: 'flex', flexDirection: 'column', gap: 5,
     }}>
-      {LEGEND_ITEMS.map(({ icon, label }) => (
-        <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 13 }}>
-          <img src={icon} alt={label} style={{ width: 28, height: 28, objectFit: 'contain' }} />
+      {LEGEND_ITEMS.map(({ type, label }) => (
+        <div key={type} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 13 }}>
+          <span style={{
+            width: 14, height: 14, borderRadius: '50%',
+            background: MARKER_COLORS[type], flexShrink: 0,
+          }} />
           <span>{label}</span>
         </div>
       ))}
