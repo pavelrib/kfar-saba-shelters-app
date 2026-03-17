@@ -38,6 +38,7 @@ export default function App() {
   }
 
   return (
+    <>
     <div style={{ position: 'relative', width: '100%', height: '100%' }}>
       <div style={{ position: 'absolute', inset: 0, bottom: 'var(--panel-height)' }}>
         <ShelterMap
@@ -64,5 +65,6 @@ export default function App() {
       )}
     </div>
     <Analytics />
+    </>
   )
 }
