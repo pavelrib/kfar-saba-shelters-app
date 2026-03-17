@@ -1,12 +1,10 @@
-import { MARKER_COLORS } from '../constants.js'
+import { MARKER_COLORS, SHELTER_TYPES } from '../constants.js'
 
 function formatDistance(meters) {
   const m = Math.round(meters)
   if (m < 1000) return `${m} מ׳`
   return `${(m / 1000).toFixed(1)} ק"מ`
 }
-
-const TYPE_EMOJI = { shelter: '🛡️', kindergarten: '🏫', park: '🌳' }
 
 export function ShelterList({ shelters, onSelect, selectedId }) {
   return (
@@ -35,7 +33,15 @@ export function ShelterList({ shelters, onSelect, selectedId }) {
             display: 'flex', flexDirection: 'column', gap: 4,
           }}
         >
-          <div style={{ fontSize: 20 }}>{TYPE_EMOJI[s.type]}</div>
+          <div style={{
+            fontSize: 11, fontWeight: 600,
+            color: MARKER_COLORS[s.type],
+            background: selectedId === s.id ? '#d2e3fc' : '#ebebeb',
+            borderRadius: 8, padding: '1px 7px',
+            alignSelf: 'flex-start',
+          }}>
+            {SHELTER_TYPES[s.type]}
+          </div>
           <div style={{ fontWeight: 600, fontSize: 13, lineHeight: 1.3 }}>{s.name}</div>
           <div style={{ fontSize: 12, color: '#666' }}>{s.address}</div>
           <div style={{

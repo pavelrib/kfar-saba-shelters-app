@@ -1,10 +1,12 @@
 import { useState, useEffect } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import { useGeolocation } from './hooks/useGeolocation.js'
 import { getNearestShelters } from './utils/nearest.js'
 import { ShelterMap } from './components/Map.jsx'
 import { ShelterList } from './components/ShelterList.jsx'
 import { InfoCard } from './components/InfoCard.jsx'
 import { GpsPrompt } from './components/GpsPrompt.jsx'
+import { MapLegend } from './components/MapLegend.jsx'
 import { NEAREST_COUNT } from './constants.js'
 
 export default function App() {
@@ -36,6 +38,7 @@ export default function App() {
   }
 
   return (
+    <>
     <div style={{ position: 'relative', width: '100%', height: '100%' }}>
       <div style={{ position: 'absolute', inset: 0, bottom: 'var(--panel-height)' }}>
         <ShelterMap
@@ -44,6 +47,8 @@ export default function App() {
           onMarkerClick={handleSelect}
         />
       </div>
+
+      <MapLegend />
 
       {gpsError && <GpsPrompt message={gpsError} />}
 
@@ -59,5 +64,7 @@ export default function App() {
         />
       )}
     </div>
+    <Analytics />
+    </>
   )
 }
