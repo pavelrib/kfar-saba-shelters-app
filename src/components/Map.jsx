@@ -19,8 +19,8 @@ const MAP_OPTIONS = {
 // SVG paths for distinct icons per shelter type (Material Design)
 const ICON_SVG = {
   shelter: 'M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z',
-  kindergarten: 'M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3L1 9l11 6 9-4.91V17h2V9L12 3z',
-  park: 'M17 8C8 10 5.9 16.17 3.82 20.58L5.71 21.5c.19-.38.39-.7.58-1.1A10.42 10.42 0 007 21.5c2 0 4.11-.5 6-1.5a11.25 11.25 0 006 1.5c.5 0 1.02-.05 1.5-.14C21.77 18 21 15.22 21 12c0-.71-.05-1.39-.13-2.05A10.57 10.57 0 0017 8z',
+  kindergarten: 'M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z',
+  park: 'M12 3L5 14h4v7h6v-7h4z',
 }
 
 function shelterIcon(type) {
